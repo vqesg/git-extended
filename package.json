@@ -1,0 +1,14 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "repository": "git@github.com:vqesg/git-extended.git",
+  "author": "Valeria Grigoreva 1032253494@rudn.ru",
+  "license": "CC-BY-4.0",
+  "config": {
+      "commitizen": {
+          "path": "cz-conventional-changelog"
+      }
+  }
+}
